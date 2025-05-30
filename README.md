@@ -24,3 +24,5 @@ Este repositorio contiene el código fuente y la documentación técnica del sis
   - Guías de instalación y uso
 
 Este repositorio tiene como objetivo proporcionar una solución completa para la monitorización ambiental, integrando diferentes tipos de sensores en una interfaz gráfica moderna y fácil de usar. 
+
+¡¡ IMPORTANTE!! Demomento ejecutar el test_ui.py. Comunicación en desarrollo.
